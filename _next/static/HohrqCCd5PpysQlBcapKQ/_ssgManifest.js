@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fa\u002F[attr]","\u002Fa\u002F[attr]\u002F[value]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
